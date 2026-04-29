@@ -1,0 +1,9 @@
+# .github/metadata.yaml
+# Triaged by AI-assisted bulk pass (2026-04-29).
+description: "Swift implementation of RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests."
+topics:
+  - standards
+  - rfc
+  - rfc-7233
+  - http
+homepage: "https://swift-institute.org"
