@@ -6,6 +6,6 @@
 //
 
 /// Implementation of RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests
-/// 
+///
 /// See: https://www.rfc-editor.org/rfc/rfc7233.html
 public enum RFC_7233 {}
